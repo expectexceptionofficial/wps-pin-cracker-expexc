@@ -45,10 +45,10 @@ sudo apt install aircrack-ng reaver crunch coreutils
 
 📥 Installation
 
-    Download the script:
+Download the script:
 
-wget https://example.com/wps-pin-cracker-expexc.sh
-chmod +x wps-pin-cracker-expexc.sh
+    wget https://example.com/wps-pin-cracker-expexc.sh
+    chmod +x wps-pin-cracker-expexc.sh
 
 Run the script:
 
@@ -58,13 +58,13 @@ Run the script:
 
 Basic execution:
 
-sudo ./wps-pin-cracker-expexc.sh
+    sudo ./wps-pin-cracker-expexc.sh
 
 What it does:
 
-    Scans for nearby WPS-enabled networks
+  Scans for nearby WPS-enabled networks
 
-    Lets you select a target
+  Lets you select a target
 
     Starts brute-forcing using randomized PINs
 
